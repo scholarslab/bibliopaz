@@ -1,0 +1,51 @@
+---
+layout: page
+title: Biblioteca Pública Móvil Las Morras
+permalink: /las-morras/
+---
+
+## **Sendero de Paz | Crónica**
+
+#### ![Dibujo, archivo personal](/images/senderos.png "Dibujo, archivo personal")
+
+*Foto: dibujo, archivo personal* 
+
+#### Vereda Las Morras, San Vicente del Caguán, Caquetá
+
+"***Todo cambia y es duro, porque uno no está acostumbrado...ya no carga un fusil sino una cámara fotográfica***"  
+     –**Marlon, excombatiente FARC** 
+
+5:00 a.m. Una mañana fría y con las nubes asomadas por las montañas da la bienvenida a ese día de filmación del proyecto sendero de Paz. Como presagio, un carro de la vereda Puerto Amor pasa lanzando voladores al aire y colocando música a todo volumen. Anuncia el sensacional bazar: *“Comidas típicas de la región, bebidas al gusto, riña de gallos, campeonato de microfutbol masculino y femenino, rumba hasta el amanecer o hasta que el cuerpo aguante”.* Los camarógrafos de la Universidad De La Salle – Alexander y Carlos- empiezan a alistar sus herramientas y las familias campesinas inflan globos y colocan los letreros decorados en la entrada de sus casas anunciando que pasará el sendero de paz. 
+
+7:00 a.m. Cae una leve llovizna sobre las Morras, y empiezan a llegar los invitados al sendero: De Bogotá, Consuelo, Henry y Silvia – Biblioteca Nacional-. De San Vicente, Miguel, Cristhina (Oficina del Alto Comisionado para la Paz) Lizeth y Juan Alejandro. Y en la BPM les dan la bienvenida: Robinson, auxiliar Bibliotecario; Ana y Valentina, del grupo de amigos de la biblioteca (GAB); y los niños Natalia y Javier, camarógrafos oficiales de la Biblioteca Pública de las Morras. 
+
+Robinson inicia el sendero de Paz, haciendo un recuento del proyecto y lo que ha generado en los escritos de la comunidad de Las Morras. Caminamos hacia la casa de Dalia Campos, presidenta de la Junta y del GAB. Un sabroso olor a caldo de gallina y arepas nos recibe en la casa. Una historia llena de momentos difíciles y de guerra despierta los sentimientos del grupo de caminantes. Mientras desayunamos, Dalia recuerda aquellas épocas en que llegó a la región y la finca donde trabajaba. Nos narra que era paso obligatorio de grupos insurgentes y de combates. Igualmente nos comenta los momentos duros del encarcelamiento de su esposo y de la quema de su casa; se nos hace un nudo en la garganta. Posteriormente se unen algunos niños al sendero de paz. 
+
+8:30 a.m. Caminamos rumbo a la fonda “La Olímpica” –yo creo que el nombre es en honor a la forma como se negoció- y en este trayecto se nos unieron a la caminata Aracely y Reynel (pareja de adultos mayores que fueron encarcelados por motivos de los imaginarios de las relaciones estrechas entre los campesinos y las FARC en la región). Zonas grises que aún en tiempos de la Paz se hacen incomprensibles y cuyas fronteras son de fácil traspaso. 
+
+9:00 a.m. Llegamos a casa de William y Ana – del GAB-. Nos reciben con sus sonrisas y con un racimo de guineos para degustar lo típico de la región. William hace su intervención, donde nos comparte el escrito que ha realizado sobre su experiencia al ser víctima de mina antipersona. Desgarrador relato que nos hace poner los pies sobre la tierra. William me informa que estamos cortos de tiempo, y que mejor cambiar el trayecto del sendero, por uno más corto. Evalúo con Robinson y con Reynel la posibilidad del cambio, y decidimos que se desarrolle el sendero por el camino de doña Ernestina, que nos lleva al Punto Transitorio de Normalización de Miravalle en cuarenta minutos. Seguimos nuestro caminar, rumbo a casa de Diego y Lucy. 
+
+9:45 a.m. Las veladoras y los rezos han funcionado, la leve llovizna desaparece, y un tímido sol se asoma entre nubes espesas y dispersa la neblina que cubre el paisaje montañoso de las Morras. Gran algaravía por la llegada de los camarógrafos y de los senderistas. Lucy corre a colocar los asientos en el corredor de la hermosa casa de madera, mientras Natalia nos recibe con un tinto caliente. Diego y Juan a la distancia acompañan a los visitantes…pero Laura, con su energía y carisma, nos hace preguntas y quiere participar de las conversaciones de adultos. 
+
+Don Fortuna inicia su relato: Son los años sesenta, primeros colonos que llegan a Las Morras vía Balsillas, Guayabal y Los Andes. Terrenos selváticos y hombres valientes con hacha en mano se encuentran en un contexto histórico de guerra bipartidista y amnistías. Luego da paso a los tiempos de la guerra entre FARC y Ejército, y finaliza con el drama de su captura y encarcelamiento disque por se auxiliador de la guerrilla. Don Pedro, ayuda a su hermano en la construcción de los relatos, pues él vivió casi la misma historia de desplazamiento, guerra y cárcel. Los dos narran con nostalgia la huída que hicieron con su mamá y sus hermanitos por las selvas del coreguaje: Caminatas de noche, hambre, frío, angustia, y la muerte de su hermanito menor que no resistió el trajin de la guerra. 
+
+10:15 a.m. Pasamos a la fonda de doña Milvia. Ella nos espera con la casa muy arreglada, los globos de bienvenida y un altar, con mantel blanco y el album de fotografías antiguas de la vereda. Muy elegante ella, nos da la bienvenida e inicia sus relatos de tiempos mejores: Los paseos de olla en el tiempo del verano, con el típico sancocho de gallina, el baño en el río Pato o la quebrada las Perlas, y los “bailes hasta el amanecer o hasta que el cuerpo aguante”. Ya no se hacen esos paseos…en el último que hicieron, llegando a la escuela de la vereda unas ráfagas de fusíl casi alcanzan el mixto donde venían con todas sus familias. Un milagro los salvó de una catástrofe. Con su habitual tranquilidad y alegría, nos narró las fiestas de navidad, año nuevo y San Pedro, celebradas en su casa bajo la luz de la luna. Tiempos antiguos donde la carretera hacía de pista de baile, y los niños corrían a tomarsen los cunchos de las botellas de cerveza que dejaban los adultos en la calle. 
+
+10:30 a.m. Subimos todos a la camioneta, al taxi y a las motos y arrancamos entre pitos, risas y charlas amenas hacia la casa de Johana y Odilia. Ya está en la casa toda la familia esperando desde muy temprano, estaban angustiados por la demora. Kevin y Marlon, del ETCR, se encuentran allí, como lo habíamos programado, para que las historias de las FARC hicieran parte del sendero. 
+
+Diego, Alfonso, Odilia y Johana nos reciben cálidamente. Con algo de timidéz, Johana saca un papel de su bolsillo, y nos invita a escuchar su historia: La última despedida. Historias de una familia que sigue hoy en día esperando la llegada de su hijo mayor que desapareció en la guerra. Cada mañana abren sus ojos con la esperanza de que aparezca en la puerta de su casa ese hijo que partió en busca de justicia, y se perdió entre bombas, balas y persecusiones en la frontera con Ecuador. 
+
+11:00 a.m. Con la presión del viaje de los invitados de Bogotá, partimos en los carros y motos hasta la entrada a la casa de Ernestina. Un bocadillo y una bolsa de agua se les da a cada caminante. Y empezamos el camino de trocha hacia el Espacio Territorial de Capacitación y reinserción (ETCR) “Oscar Mondragón”. Pasamos por cañadas, por selvas, por caminos estrechos…siempre con las indicaciones de los campesinos cuando se asume el riesgo de ir por las trochas en una vereda catalogada como zona roja de mina antipersona: *“Ir siempre por el sendero, no salir de él ni si quiera para ir al baño. No recoger ningún artefacto extraño, y siempre ir uno detrás del otro por el mismo camino. Donde pisa uno pisan todos”.* Un peso de responsabilidad se sube al hombro de los bibliotecarios, que piden al más allá alguna protección. 
+
+Por el camino fluyen historias expontáneamente: Don Alfonso nos narra la travesía que vivió con su familia para llegar a Las Morras en un invierno en los años noventa. Marlon, de las FARC, comenta sus narrativas de combates, donde casi pierde la vida por causa de un tiro en la cabeza; cuenta cómo sus compañeros lo recogieron y lo llevaron en hombros para salvarlo, literalmente “no lo dejaron morir”. Y, lanza una de sus frases de la guerra: “para nosotros todo es nuevo y difícil, pues ya no andamos uniformados, sino de civil, y ya no cargamos armas, ahora disparamos cámaras fotográficas”. 
+
+12:00 m Pasamos la hamaca del río Pato, toda una metáfora del proceso de paz: El río crecido, la hamaca medio torcida y resbalosa, pero el ánimo intacto de pasar al otro lado.  Cruzamos el río y nos reciben Karina y Doris de ARN (Agencia para la reincorporación y normalización), Álvaro -de la defensa Civil-,  la policía comunitaria y algunos visitantes del ETCR. Tomamos refrigerio mientras cerramos el sendero de paz con la historia de “Cómo un campesino termina en las filas de las FARC”, de Kevin. Una historia de luchas, de señalamientos, persecuciones a los campesinos por el solo hecho de vivir en zonas rojas. Unas decisiones dadas por las pocas opciones en el área rural, y una enseñanza de que detrás de esos camuflados hay historias de campesinos que con dolor han superado los traumas de la guerra. 
+
+12:30 p.m. Robinson da los agradecimientos a los participantes del primer sendero de Paz. Nos despedimos de los viajeros a Bogotá…los ayudamos a salir de la vereda Miravalle en medio de charcos de lodo y barriales que hacen casi imposible la salida de los carros. Un insidente con el taxi casi nos deja sin auxiliar bibliotecario, pues fue arrastrado unos metros amarrado a un lazo…pero nada que un buen auxiliar bibliotecario no pueda superar.  Degustamos un delicioso almuerzo casero, y retornamos a Las Morras en el camión de la Policía que también hizo maniobras para salir de esas montañas embarradas por la lluvia torrencial que se desató al finalizar el sendero. 
+
+4:00 p.m. Ya todos en las casas con el corazón henchido por la experiencia de caminar juntos y contar nuestras historias, llegamos a narrar las travesías y las viviencias de este 14 de octubre del 2017. Nosotros en la BPM damos gracias porque todo salió muy bien, sin nada que lamentar, y dispuestos a seguir abriendo senderos por toda nuestra región; siempre con la convicción de que la verdad que me narra el “otro”, también hace parte de mi verdad. 
+
+**Por: Pablo Iván Galvis Díaz** 
+
+*Bibliotecario de la Paz*
+
