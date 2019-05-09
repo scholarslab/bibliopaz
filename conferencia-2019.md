@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mesa Redonda, SALALM 2019
+title: Mesa Redonda
 permalink: /mesa-redonda-2019
 ---
 ## Libros en Lugar de Armas: Bibliotecas públicas como espacios de paz
