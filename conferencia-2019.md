@@ -21,11 +21,31 @@ Ex-coordinador del programa Bibliotecas Públicas para la Paz.
 **Víctor Solís** 
 
 <section>
-    <div class="box alt">
-        <div class="row gtr-50 gtr-uniform">
-            <div class="col-4"><iframe src="https://www.youtube.com/embed/yahFYY2-vpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-            <div class="col-4"><iframe src="https://www.youtube.com/embed/9MuHl933MSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        </div>
+    <div class="gallery">
+            <div>
+                <iframe src="https://www.youtube.com/embed/yahFYY2-vpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div>
+                <iframe src="https://www.youtube.com/embed/9MuHl933MSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div>
+                <iframe src="https://www.youtube.com/embed/yahFYY2-vpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div>
+                <iframe src="https://www.youtube.com/embed/9MuHl933MSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div>
+                <iframe src="https://www.youtube.com/embed/yahFYY2-vpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div>
+                <iframe src="https://www.youtube.com/embed/9MuHl933MSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div>
+                <iframe src="https://www.youtube.com/embed/yahFYY2-vpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div>
+                <iframe src="https://www.youtube.com/embed/9MuHl933MSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
     </div>     
 </section>
 
