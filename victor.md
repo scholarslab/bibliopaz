@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Victor Solis
+title: Victor Solis Camacho
 permalink: /bpm-gallo
-nav: false
 ---
 
 ### Biblioteca Pública Móvil de Gallo
