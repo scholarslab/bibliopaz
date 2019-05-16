@@ -19,9 +19,6 @@ nav: false
 	<div class="col-4"><span class="image fit"><img src="images/conejo4.jpg" alt="" /></span></div>
 	<div class="col-4"><span class="image fit"><img src="images/conejo5.jpg" alt="" /></span></div>
 	<div class="col-4"><span class="image fit"><img src="images/conejo6.jpg" alt="" /></span></div>
-	<div class="col-4"><span class="image fit"><img src="images/conejo7.jpg" alt="" /></span></div>
-	<div class="col-4"><span class="image fit"><img src="images/conejo8.jpg" alt="" /></span></div>
-	<div class="col-4"><span class="image fit"><img src="images/conejo9.jpg" alt="" /></span></div>
     </div>
 </div>
 </section>
