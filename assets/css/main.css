@@ -3949,6 +3949,52 @@ input, select, textarea {
 		background-color: #1d242a;
 	}
 
+	.video {
+		border-radius: 3px;
+		border: 0;
+		display: inline-block;
+		position: relative;
+	}
+	
+		.video video {
+			border-radius: 3px;
+			display: block;
+		}
+	
+		.video.left {
+			float: left;
+			margin: 0 2em 2em 0;
+			top: 0.25em;
+		}
+	
+		.video.right {
+			float: right;
+			margin: 0 0 2em 2em;
+			top: 0.25em;
+		}
+	
+		.video.left, .video.right {
+			max-width: 40%;
+		}
+	
+			.video.left video, .video.right video {
+				width: 100%;
+			}
+	
+		.video.fit {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+		}
+	
+			.video.fit video {
+				width: 100%;
+			}
+		.video.thumbnail{
+			width: 50%;
+			height: 50%;
+		}
+
 .gallery {
 	display: flex;
 	flex-direction: row;
@@ -3968,3 +4014,12 @@ input, select, textarea {
 	display: block;
 	border: 0;
 }
+
+.gallery video {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+	display: block;
+	border: 0;
+}
+
