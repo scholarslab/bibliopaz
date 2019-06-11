@@ -4,9 +4,10 @@ title: Victor Solis Camacho
 permalink: /bpm-gallo
 ---
 
-### Biblioteca Pública Móvil de Gallo
-Tierralta, Córdoba
-<img src="images/victormuloteca.jpg" class="thumbnail"/>
+## Víctor Solís Camacho
+**Bibliotecario para la Paz durante el año 2017 en la vereda de Gallo, que pertenece al municipio de Tierralta en el Departamento de Córdoba, Colombia**
+
+
 
 
 Víctor Solís Camacho es Bibliotecario para la Paz en Tierralta, Córdoba, donde dirige la Biblioteca Pública Móvil de Gallo. Ha liderado diversos proyectos comunitarios como la ["Muloteca Viajera,"](https://www.youtube.com/watch?v=w7dQsyn9-90) la ["Canoa Literaria"](https://www.youtube.com/watch?v=nAhSxR8mppI) y ["Gallo Hagamos Cine."](https://www.youtube.com/channel/UCZew_u-3hOSZVm7_s-1Idkg) 
