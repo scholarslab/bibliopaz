@@ -4024,3 +4024,41 @@ input, select, textarea {
 	border: 0;
 }
 
+/* pie de fotos  */
+
+h9 { 
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: 900;
+	line-height: 1.4;
+	text-rendering: optimizeLegibility;
+	font-size: 5px;
+	font-size: 0.5rem;
+	color: rgba(#FFFFFF);
+  }
+  
+  h8 { 
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: 900;
+	line-height: 1.1em;
+	text-rendering: optimizeLegibility;
+	font-size: 15px;
+	font-size: 1.5rem;
+	line-height: 1.231em;
+	color: #FF0000;
+  
+  }
+  
+  h7 { 
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: 500;
+	line-height: 1.1em;
+	text-rendering: optimizeLegibility;
+	font-size: 8px;
+	font-size: 0.8rem;
+	line-height: 1.231em;
+  
+  }
+  
+  .oneandhalf {
+  line-height: 0pt;
+  } 
