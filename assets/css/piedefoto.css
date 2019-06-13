@@ -5,8 +5,10 @@ img {
 }
 
 @media screen and (max-width: 600px) {
+
   .image.left {
     float:none;
     width: 100%;
   }
+
 }
