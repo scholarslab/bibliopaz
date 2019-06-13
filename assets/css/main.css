@@ -2115,7 +2115,7 @@ input, select, textarea {
 			width: 50%;
 			height: 50%;
 		}
-		
+
 
 /* List */
 
@@ -3365,11 +3365,13 @@ input, select, textarea {
 					padding-top: 0 !important;
 				}
 
-				#menu ul > li > a {
+				#menu a {
 					border: 0;
 					color: inherit;
 					display: block;
 					font-size: 0.8em;
+					line-height: 1.125em;
+					margin: 1em 0;
 					letter-spacing: 0.225em;
 					outline: 0;
 					text-decoration: none;
@@ -3383,7 +3385,12 @@ input, select, textarea {
 						}
 
 					}
-
+		#menu hr {
+			margin: 1em 0;
+		}
+		#menu br {
+			display:none;
+		}
 		#menu .close {
 			background-image: url("images/close.svg");
 			background-position: 4.85em 1em;
@@ -3955,38 +3962,38 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 	}
-	
+
 		.video video {
 			border-radius: 3px;
 			display: block;
 		}
-	
+
 		.video.left {
 			float: left;
 			margin: 0 2em 2em 0;
 			top: 0.25em;
 		}
-	
+
 		.video.right {
 			float: right;
 			margin: 0 0 2em 2em;
 			top: 0.25em;
 		}
-	
+
 		.video.left, .video.right {
 			max-width: 40%;
 		}
-	
+
 			.video.left video, .video.right video {
 				width: 100%;
 			}
-	
+
 		.video.fit {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
 		}
-	
+
 			.video.fit video {
 				width: 100%;
 			}
@@ -4026,7 +4033,7 @@ input, select, textarea {
 
 /* pie de fotos  */
 
-h9 { 
+h9 {
 	font-family: "Helvetica Neue", Arial, sans-serif;
 	font-weight: 900;
 	line-height: 1.4;
@@ -4035,8 +4042,8 @@ h9 {
 	font-size: 0.5rem;
 	color: rgba(#FFFFFF);
   }
-  
-  h8 { 
+
+  h8 {
 	font-family: "Helvetica Neue", Arial, sans-serif;
 	font-weight: 900;
 	line-height: 1.1em;
@@ -4045,10 +4052,10 @@ h9 {
 	font-size: 1.5rem;
 	line-height: 1.231em;
 	color: #FF0000;
-  
+
   }
-  
-  h7 { 
+
+  h7 {
 	font-family: "Helvetica Neue", Arial, sans-serif;
 	font-weight: 500;
 	line-height: 1.1em;
@@ -4056,9 +4063,9 @@ h9 {
 	font-size: 8px;
 	font-size: 0.8rem;
 	line-height: 1.231em;
-  
+
   }
-  
+
   .oneandhalf {
   line-height: 0pt;
-  } 
+  }
