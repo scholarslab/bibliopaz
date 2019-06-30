@@ -4002,6 +4002,20 @@ input, select, textarea {
 			height: 50%;
 		}
 
+		.video iframe {
+			width: auto;
+			height: auto;
+			max-width: 100%;
+			display: block;
+			border: 0;
+		}
+
+		.video.center {
+			float: center;
+			margin: 0 0 2em 2em;
+			top: 0.25em;
+		}
+
 .gallery {
 	display: flex;
 	flex-direction: row;
